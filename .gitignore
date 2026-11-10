@@ -1,0 +1,46 @@
+# ===== Secrets (MOST IMPORTANT - never commit) =====
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.claude
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ===== Virtual environments =====
+venv/
+.venv/
+env/
+
+# ===== Generated data (rebuilt by running the code) =====
+# Delta tables: python -m src.lakehouse
+data/lakehouse/
+# Embeddings: python -m src.rag build
+data/index/
+# Playwright login session cookie (sensitive!)
+data/.portal_state.json
+
+# ===== Playwright =====
+test-results/
+playwright-report/
+*.trace.zip
+
+# ===== Logs / temp =====
+*.log
+*.tmp
+
+# ===== Editors / OS =====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Claude Code local settings =====
+.claude/settings.local.json

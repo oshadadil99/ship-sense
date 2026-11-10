@@ -1,0 +1,43 @@
+shipment_id,container_no,customer,carrier,pol,pod,etd,original_eta,current_eta,status,teu,freight_usd,service_level
+SHP-2026001,BWSU1007919,Island Rubber Co,BlueWave Shipping,Colombo,Singapore,21-Oct-2026,2026-11-05,05-Nov-2026,DEP,2,3916,standard
+SHP-2026002,MCLU1015838,Ceylon Tea Exports,Meridian Container Line,Colombo,Rotterdam,2026-10-22,2026-11-05,2026-11-09,DEP,2,2969,standard
+SHP-2026003,OCLU1023757,Kandy Spices,Oceanic Lines,Colombo,Shanghai,2026-10-18,2026-11-05,2026-11-09,TSP,1,4008,standard
+SHP-2026004,BWSU1031676,Lanka Apparel Ltd,BlueWave Shipping,Colombo,Singapore,23/10/2026,2026-11-17,20/11/2026,ARR,1,1279,platinum
+SHP-2026005,MCLU1039595,Island Rubber Co,Meridian Container Line,Colombo,Rotterdam,04-Oct-2026,2026-10-27,30-Oct-2026,HLD,1,2450,standard
+SHP-2026006,OCLU1047514,Lanka Apparel Ltd,Oceanic Lines,Colombo,Felixstowe,18-Oct-2026,2026-11-08,11-Nov-2026,GTI,1,3608,standard
+SHP-2026007,BWSU1055433,Ceylon Tea Exports,BlueWave Shipping,Colombo,Hamburg,2026-10-25,2026-11-15,2026-11-15,TSP,,3503,gold
+SHP-2026008,MCLU1063352,Island Rubber Co,Meridian Container Line,Colombo,Felixstowe,2026-10-06,2026-10-29,2026-11-01,GTI,2,3087,standard
+SHP-2026009,oclu1071271,Coco Fibre Works,Oceanic Lines,Colombo,Singapore,06/10/2026,2026-11-01,05/11/2026,ARR,1,1838,standard
+SHP-2026010,BWSU1079190,Ceylon Tea Exports,BlueWave Shipping,Colombo,Singapore,26/10/2026,2026-11-17,21/11/2026,ARR,2,3584,platinum
+SHP-2026011,MCLU1087109,Lanka Apparel Ltd,Meridian Container Line,Colombo,Singapore,13/10/2026,2026-11-08,08/11/2026,DLV,2,3959,platinum
+SHP-2026012,OCLU1095028,Lanka Apparel Ltd,Oceanic Lines,Colombo,Shanghai,2026-10-29,2026-11-22,2026-11-25,HLD,1,3995,standard
+SHP-2026013,BWSU1102947,Lanka Apparel Ltd,BlueWave Shipping,Colombo,Felixstowe,28-Oct-2026,2026-11-12,12-Nov-2026,DSC,1,2476,platinum
+SHP-2026014,MCLU1110866,Ceylon Tea Exports,Meridian Container Line,Colombo,Felixstowe,20-Oct-2026,2026-11-15,17-Nov-2026,GTI,2,4048,gold
+SHP-2026015,OCLU1118785,Kandy Spices,Oceanic Lines,Colombo,Rotterdam,2026-10-04,2026-10-25,2026-10-29,TSP,2,2979,standard
+SHP-2026016,BWSU1126704,Island Rubber Co,BlueWave Shipping,Colombo,Singapore,2026-10-28,2026-11-18,2026-11-19,DLV,1,3353,gold
+SHP-2026017,MCLU1134623,Island Rubber Co,Meridian Container Line,Colombo,Singapore,16/10/2026,2026-10-28,28/10/2026,BKD,2,3223,standard
+SHP-2026018,oclu1142542,Lanka Apparel Ltd,Oceanic Lines,Colombo,Singapore,03-Oct-2026,2026-10-30,30-Oct-2026,HLD,2,1985,platinum
+SHP-2026019,BWSU1150461,Island Rubber Co,BlueWave Shipping,Colombo,Hamburg,31-Oct-2026,2026-11-18,19-Nov-2026,ARR,,3019,platinum
+SHP-2026020,MCLU1158380,Island Rubber Co,Meridian Container Line,Colombo,Rotterdam,2026-10-04,2026-10-23,2026-10-24,DLV,2,3310,standard
+SHP-2026021,OCLU1166299,Ceylon Tea Exports,Oceanic Lines,Colombo,Rotterdam,2026-10-01,2026-10-15,2026-10-15,ARR,1,3005,standard
+SHP-2026022,BWSU1174218,Lanka Apparel Ltd,BlueWave Shipping,Colombo,Felixstowe,09-Oct-2026,2026-11-05,06-Nov-2026,HLD,2,4113,platinum
+SHP-2026023,MCLU1182137,Ceylon Tea Exports,Meridian Container Line,Colombo,Felixstowe,2026-10-26,2026-11-20,2026-11-21,DSC,2,2634,platinum
+SHP-2026024,OCLU1190056,Kandy Spices,Oceanic Lines,Colombo,Felixstowe,2026-10-15,2026-10-28,2026-10-28,ARR,1,1918,standard
+SHP-2026025,BWSU1197975,Lanka Apparel Ltd,BlueWave Shipping,Colombo,Jebel Ali,07/10/2026,2026-11-02,02/11/2026,HLD,2,1208,platinum
+SHP-2026026,MCLU1205894,Coco Fibre Works,Meridian Container Line,Colombo,Rotterdam,26-Oct-2026,2026-11-10,10-Nov-2026,GTI,2,1581,platinum
+SHP-2026027,oclu1213813,Ceylon Tea Exports,Oceanic Lines,Colombo,Singapore,16/10/2026,2026-11-12,13/11/2026,DSC,1,2499,gold
+SHP-2026028,BWSU1221732,Coco Fibre Works,BlueWave Shipping,Colombo,Felixstowe,30/10/2026,2026-11-25,27/11/2026,HLD,2,1677,gold
+SHP-2026029,MCLU1229651,Island Rubber Co,Meridian Container Line,Colombo,Rotterdam,07-Oct-2026,2026-10-20,20-Oct-2026,BKD,,2959,standard
+SHP-2026030,OCLU1237570,Ceylon Tea Exports,Oceanic Lines,Colombo,Shanghai,2026-10-02,2026-10-30,2026-10-30,GTI,2,2553,standard
+SHP-2026031,BWSU1245489,Ceylon Tea Exports,BlueWave Shipping,Colombo,Hamburg,31-Oct-2026,2026-11-19,19-Nov-2026,DLV,2,1968,standard
+SHP-2026032,MCLU1253408,Kandy Spices,Meridian Container Line,Colombo,Singapore,22/10/2026,2026-11-13,14/11/2026,TSP,,2195,standard
+SHP-2026033,OCLU1261327,Coco Fibre Works,Oceanic Lines,Colombo,Singapore,2026-10-01,2026-10-27,2026-10-27,DLV,2,1442,gold
+SHP-2026034,BWSU1269246,Island Rubber Co,BlueWave Shipping,Colombo,Singapore,29/10/2026,2026-11-12,13/11/2026,HLD,2,3405,standard
+SHP-2026035,MCLU1277165,Island Rubber Co,Meridian Container Line,Colombo,Rotterdam,2026-10-22,2026-11-12,2026-11-12,GTI,2,2015,gold
+SHP-2026036,oclu1285084,Island Rubber Co,Oceanic Lines,Colombo,Shanghai,2026-10-20,2026-11-07,2026-11-10,HLD,2,1108,standard
+SHP-2026037,BWSU1293003,Ceylon Tea Exports,BlueWave Shipping,Colombo,Jebel Ali,2026-10-21,2026-11-15,2026-11-17,LOD,2,1561,platinum
+SHP-2026038,MCLU1300922,Ceylon Tea Exports,Meridian Container Line,Colombo,Felixstowe,2026-10-18,2026-11-12,2026-11-12,LOD,1,2412,standard
+SHP-2026039,OCLU1308841,Island Rubber Co,Oceanic Lines,Colombo,Rotterdam,14/10/2026,2026-10-30,30/10/2026,ARR,2,3693,standard
+SHP-2026040,BWSU1316760,Kandy Spices,BlueWave Shipping,Colombo,Shanghai,22-Oct-2026,2026-11-06,09-Nov-2026,LOD,2,1565,standard
+SHP-2026004,BWSU1031676,Lanka Apparel Ltd,BlueWave Shipping,Colombo,Singapore,23/10/2026,2026-11-17,20/11/2026,ARR,1,1279,platinum
+SHP-2026011,MCLU1087109,Lanka Apparel Ltd,Meridian Container Line,Colombo,Singapore,13/10/2026,2026-11-08,08/11/2026,DLV,2,3959,platinum
