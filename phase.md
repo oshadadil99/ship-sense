@@ -7,7 +7,7 @@ Phase A: Foundation
 
 Phase B: Data, Playwright and lakehouse
 4. Look at the CSV and find the dirty data
-5. mock_portal/app.py: a fake carrier website
+5. mock_portal/app.py: a fake carrier website **
 6. src/scraper.py part 1: Playwright logs in
 7. src/scraper.py part 2: scrape many containers at once
 8. src/lakehouse.py part 1: bronze

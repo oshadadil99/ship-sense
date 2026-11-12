@@ -23,6 +23,15 @@ AZURE_OPENAI_API_KEY = os.getenv("AZURE_OPENAI_API_KEY", "")
 AZURE_OPENAI_CHAT_DEPLOYMENT = os.getenv("AZURE_OPENAI_CHAT_DEPLOYMENT", "gpt-4.1-mini")
 AZURE_OPENAI_EMBED_DEPLOYMENT = os.getenv("AZURE_OPENAI_EMBED_DEPLOYMENT", "text-embedding-3-small")
 
+# ---- Azure AI Search (optional: empty endpoint -> local index is used) ----
+AZURE_SEARCH_ENDPOINT = os.getenv("AZURE_SEARCH_ENDPOINT", "").rstrip("/")
+AZURE_SEARCH_KEY = os.getenv("AZURE_SEARCH_KEY", "")
+AZURE_SEARCH_INDEX = os.getenv("AZURE_SEARCH_INDEX", "shipsense-knowledge")
+
+# ---- Azure AI Document Intelligence (optional: empty -> pypdf is used) ----
+AZURE_DOCINTEL_ENDPOINT = os.getenv("AZURE_DOCINTEL_ENDPOINT", "").rstrip("/")
+AZURE_DOCINTEL_KEY = os.getenv("AZURE_DOCINTEL_KEY", "")
+
 # ---- Our API + webhook security ----
 SHIPSENSE_API_KEY = os.getenv("SHIPSENSE_API_KEY", "")
 WEBHOOK_SECRET = os.getenv("WEBHOOK_SECRET", "")
